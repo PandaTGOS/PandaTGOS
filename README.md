@@ -78,8 +78,6 @@
 
 ---
 
-### Let's Connect !
-
 <p align="center">
   <a href="https://linkedin.com/in/sakhi-saswat-panda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sakhisaswatpanda@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"></a>
