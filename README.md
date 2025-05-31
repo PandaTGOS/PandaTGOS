@@ -2,7 +2,7 @@
 <!-- PROFILE README FOR: PandaTGOS / Sakhi Saswat Panda -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakhi+Saswat+Panda;aka+PandaTGOS;A+Creative+Coder+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakhi+Saswat+Panda;Wlecome+to+my+Profile+!" alt="Typing SVG" />
 </p>
 
 ---
@@ -67,10 +67,6 @@
   <img src="https://img.shields.io/badge/LLM_Dev-000000?style=for-the-badge&logo=cohere&logoColor=white">
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Vector_Database-Qdrant-6B46C1?style=for-the-badge">
-
-  <!-- Testing & Automation -->
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
   <!-- Career & Community -->
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
