@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakhi+Saswat+Panda;aka+PandaTGOS;A+Creative+Coder+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/PandaTGOS/PandaTGOS/assets/banner.png" alt="Banner" width="90%">
-</p>
-
 ---
 
 <pre align="center">
