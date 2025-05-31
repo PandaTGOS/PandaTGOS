@@ -1,10 +1,10 @@
 <!-- PROFILE README FOR: PandaTGOS / Sakhi Saswat Panda -->
 
-<!-- Typing SVG -->
+<!-- Typing SVG 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=250&speed=40&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+There+!;I'm+Sakhi+Saswat+Panda;Welcome+to+my+Profile+!" alt="Typing SVG" />
 </p>
-
+-->
 ---
 
 <pre align="center">
@@ -17,23 +17,16 @@
 </pre>
 
 ---
-
-<details>
-<summary><strong>Languages and Tools</strong></summary>
-
-<br/>
-
+## Languages and Tools
 <table align="center"> 
  <tr>
   <td><strong>Programming Languages</strong></td>
-  <td><strong>Data Science, ML & GenAI</strong></td>
+  <td><strong>Data Science & ML</strong></td>
   <td><strong>OS & Environment</strong></td>
  </tr>
  <tr>
   <td><img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark"></td>
-  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"> <br/>
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="HuggingFace, LangChain via AWS"> 
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="LLMOps, vector DBs etc.">
+  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,aws&theme=dark"> <br/>
   </td>
   <td><img src="https://skillicons.dev/icons?i=apple,vscode,linux&theme=dark"></td>
  </tr>
