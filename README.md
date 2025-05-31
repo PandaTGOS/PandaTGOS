@@ -26,8 +26,7 @@
  </tr>
  <tr>
   <td><img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark"></td>
-  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws&theme=dark"> <br/>
-  </td>
+  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,opencv&theme=dark"></td>
   <td><img src="https://skillicons.dev/icons?i=apple,vscode,linux&theme=dark"></td>
  </tr>
  <tr>
