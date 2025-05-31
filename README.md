@@ -68,7 +68,7 @@
 ---
 
 <details align="center">
-  <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
+  <summary><strong>GitHub Stats</strong></summary>
   <br />
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PandaTGOS&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -82,6 +82,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sakhi-saswat-panda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:sakhisaswatpanda@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://instagram.com/rizzy._.catto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:sakhisaswatpanda@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"></a>
+  <a href="https://instagram.com/rizzy._.catto"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
