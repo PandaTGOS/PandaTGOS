@@ -38,18 +38,6 @@ Tools: Git, Docker, Linux, Neovim, GitHub Actions
 
 ---
 
-### 💻 My Workspace
-
-```html
-💻 OS: Arch Linux / macOS
-🌐 Browser: Firefox
-🛠️ Terminal: Kitty + Zsh
-🧠 Editor: Neovim + Tmux
-🎨 Theme: Tokyo Night / Catppuccin
-```
-
----
-
 ### 🕹️ Interactive Components
 
 - 🧩 **GitHub Snake Game**
@@ -77,9 +65,8 @@ Tools: Git, Docker, Linux, Neovim, GitHub Actions
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sakhisaswat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:sakhisaswat@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://twitter.com/PandaTGOS"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+  <a href="https://linkedin.com/in/sakhi-saswat-panda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sakhisaswatpanda@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <p align="center">
