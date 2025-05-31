@@ -1,10 +1,10 @@
 
 <!-- PROFILE README FOR: PandaTGOS / Sakhi Saswat Panda -->
-
+<!-- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakhi+Saswat+Panda;Welcome+to+my+Profile+!" alt="Typing SVG" />
 </p>
-
+-->
 ---
 
 <pre align="center">
