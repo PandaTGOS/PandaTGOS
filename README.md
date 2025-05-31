@@ -4,10 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakhi+Saswat+Panda;Welcome+to+my+Profile+!" alt="Typing SVG" />
 </p>
-
----
 -->
-
+---
 <pre align="center">
 ░██████╗░░█████╗░██╗░░██╗██╗░░██╗██╗
 ██╔════╝ ██╔══██╗██║░██╔╝██║░░██║██║
@@ -16,17 +14,6 @@
 ██████╔╝ ██║░░██║██║░╚██╗██║░░██║██║
 ╚═════╝░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝
 </pre>
-
----
-
-<details align="center">
-  <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PandaTGOS&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaTGOS&theme=tokyonight&hide_border=true" />
-  </div>
-</details>
 
 ---
 
@@ -80,7 +67,18 @@
 
 ---
 
-### Let's Connect
+<details align="center">
+  <summary><strong>📊 GitHub Stats (Click to expand)</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PandaTGOS&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaTGOS&theme=tokyonight&hide_border=true" />
+  </div>
+</details>
+
+---
+
+### Let's Connect !
 
 <p align="center">
   <a href="https://linkedin.com/in/sakhi-saswat-panda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
